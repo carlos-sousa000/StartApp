@@ -35,4 +35,4 @@ Para rodar este projeto localmente, siga os passos abaixo:
 
 1. **Clone o repositório:**
    ```bash
-   git clone [[https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)](https://github.com/carlos-sousa000/StartApp.git)
+   git clone https://github.com/carlos-sousa000/StartApp.git
